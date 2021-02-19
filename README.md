@@ -1,6 +1,6 @@
 # OldSchoolPhysicsGodot
 
-This is the Respiratory of MattArtzthedev's OldSchoolPhysics in Godot.
+This is the Repository of MattArtzthedev's OldSchoolPhysics in Godot.
 
 HOW TO USE THIS ON YOUR GODOT PROJECT:
 
